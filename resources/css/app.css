@@ -1,0 +1,149 @@
+@import "tailwindcss";
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source "../**/*.blade.php";
+@source "../**/*.js";
+@source "../**/*.vue";
+
+@theme {
+    --font-sans: "Instrument Sans", ui-sans-serif, system-ui, sans-serif,
+        "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol",
+        "Noto Color Emoji";
+
+    --color-primary: #4e73df;
+    --color-primary-light: #5a86e5;
+    --color-primary-dark: #3c5bb5;
+
+    --color-success: #198754;
+    --color-success-light: #23a062;
+    --color-success-dark: #146c43;
+
+    --color-info: #36b9cc;
+    --color-info-light: #4fc8da;
+    --color-info-dark: #2a93a2;
+
+    --color-warning: #f6c23e;
+    --color-warning-light: #f8d267;
+    --color-warning-dark: #d4a533;
+
+    --color-danger: #e74a3b;
+    --color-danger-light: #ee5c4c;
+    --color-danger-dark: #c83f35;
+}
+
+/* NATIVE CSS START */
+@source "../../public/assets/vendor/tostr/toastr.min.css";
+@source "../../public/assets/vendor/font-awesome/all.min.css";
+@source "../../public/assets/vendor/datatables/datatables.css";
+
+* {
+    font-size: 14px;
+}
+
+.loaderAjax {
+    border: 8px solid #f3f3f3;
+    border-top: 8px solid #3498db;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.loaderContent {
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.dataTable thead tr th {
+    text-align: center !important;
+}
+
+.dataTable div .bottom .dt-length select {
+    min-width: 65px;
+    max-width: max-content !important;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+.table-no-border th,
+.table-no-border td {
+    border: none !important;
+}
+
+.table-no-border tr {
+    background-color: unset !important;
+}
+
+.table-text-center-number td.dt-type-numeric {
+    text-align: center !important;
+}
+
+.table-text-center-important td,
+.table-text-center-important th {
+    text-align: center !important;
+}
+
+table.dataTable tbody tr:nth-child(odd) {
+    background-color: #ffffff !important;
+    color: #333;
+}
+
+table.dataTable tbody tr:nth-child(even) {
+    background-color: #f8f9fa !important;
+    color: #333;
+}
+
+table.dataTable tbody tr:hover {
+    background-color: #e9ecef !important;
+    color: #000;
+}
+
+.dt-container .bottom .dt-input {
+    min-width: 65px !important;
+    max-width: max-content !important;
+}
+
+.ui-autocomplete {
+    max-height: 100px;
+    overflow-y: auto;
+
+    overflow-x: hidden;
+}
+/* NATIVE CSS END */
