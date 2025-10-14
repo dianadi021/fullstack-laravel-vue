@@ -1,4 +1,5 @@
 import "./bootstrap";
+
 import router from "./router";
 import { createApp, h } from "vue";
 import { createStore } from "vuex";
