@@ -1,3 +1,3 @@
-<template>
-    <div style="color: black;">asdas</div>
-</template>
+<script setup></script>
+
+<template></template>

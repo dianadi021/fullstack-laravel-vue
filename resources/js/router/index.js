@@ -9,12 +9,6 @@ const routes = [
         component: Welcome,
         meta: { guest: true, requiresAuth: false },
     },
-    // {
-    //     path: "/dashboard",
-    //     name: "DashboardHome",
-    //     component: DashboardHome,
-    //     meta: { requiresAuth: true },
-    // },
 ];
 
 const router = createRouter({
