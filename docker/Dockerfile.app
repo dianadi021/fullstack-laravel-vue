@@ -2,7 +2,7 @@
 FROM php:8.4-fpm AS base
 
 # Set working directory
-WORKDIR /var/www/html
+WORKDIR /var/www/laravel_app
 
 # Install system dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
@@ -21,11 +21,11 @@ COPY --from=composer:latest /usr/bin/composer /usr/bin/composer
 # COPY ./docker/php.ini /usr/local/etc/php/php.ini
 
 # Copy application code
-COPY ./ /var/www/html
+COPY ./ /var/www/laravel_app
 
 # Set permissions for Laravel
-RUN chown -R www-data:www-data /var/www/html \
-    && chmod -R 755 /var/www/html/storage /var/www/html/bootstrap/cache /var/www/html/public
+RUN chown -R www-data:www-data /var/www/laravel_app \
+    && chmod -R 755 /var/www/laravel_app/storage /var/www/laravel_app/bootstrap/cache /var/www/laravel_app/public
 
 # Expose port
 EXPOSE 9000

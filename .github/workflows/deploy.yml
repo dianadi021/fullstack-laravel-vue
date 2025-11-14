@@ -40,7 +40,7 @@ jobs:
     steps:
       - name: Deploy to Production
         run: |
-          ssh user@production-server "cd /var/www/html && git pull origin main && composer install --no-dev && npm install && npm run build && php artisan migrate --force"
+          ssh user@production-server "cd /var/www/laravel_app && git pull origin main && composer install --no-dev && npm install && npm run build && php artisan migrate --force"
 
   deploy_development:
     if: github.ref == 'refs/heads/staging' || github.ref == 'refs/heads/dev'
@@ -49,4 +49,4 @@ jobs:
     steps:
       - name: Deploy to Development
         run: |
-          ssh user@development-server "cd /var/www/html && git pull origin staging && composer install --no-dev && npm install && npm run build && php artisan migrate --force"
+          ssh user@development-server "cd /var/www/laravel_app && git pull origin staging && composer install --no-dev && npm install && npm run build && php artisan migrate --force"

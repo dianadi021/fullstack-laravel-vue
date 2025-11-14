@@ -1,8 +1,8 @@
 <script setup>
 import InputText from '@/Components/Input/InputText.vue';
-import InputNumber from '@/Components/Input/InputNumber.vue';
 import BtnPrimary from '@/Components/Btn/BtnPrimary.vue';
 import ListJKelamin from '@/Components/ListJKelamin.vue';
+import InputNumber from '@/Components/Input/InputNumber.vue';
 </script>
 
 <template>

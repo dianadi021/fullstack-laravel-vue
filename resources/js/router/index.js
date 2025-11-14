@@ -1,12 +1,12 @@
 import { createRouter, createWebHistory } from "vue-router";
 
-import Welcome from "../App.vue";
+import App from "../App.vue";
 
 const routes = [
     {
         path: "/",
-        name: "Welcome",
-        component: Welcome,
+        name: "App",
+        component: App,
         meta: { guest: true, requiresAuth: false },
     },
 ];
@@ -20,7 +20,7 @@ router.beforeEach((to, from, next) => {
 	const isAuthenticated = !!sessionStorage.getItem("_token");
 
 	if (to.meta.requiresAuth && !isAuthenticated) {
-		return next({ name: "Welcome" });
+		return next({ name: "App" });
 	}
 
 	// if (to.meta.guest && isAuthenticated) {

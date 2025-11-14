@@ -52,7 +52,7 @@
   Library / CDN
 </h2>
 
-> [![AlpineJS]](https://alpinejs.dev/essentials/installation) </br>
+> [![HeadlessUI]](https://headlessui.com/v1/vue) </br>
 > [![MomentJS]](https://momentjs.com) </br>
 > [![Sweetalert]](https://sweetalert2.github.io) </br>
 > [![tostr]](https://www.jsdelivr.com/package/npm/toastr) </br>
@@ -118,7 +118,7 @@ composer update laravel/framework
 
 ## Application
 > Database
-- Pastikan database sudah dibuatkan/create
+- Pastikan database sudah dibuat/create
 
 > Laravel
 ```bash
