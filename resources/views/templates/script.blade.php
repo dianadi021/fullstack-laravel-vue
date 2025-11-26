@@ -1,0 +1,1 @@
+<script src="{{ asset('/assets/scripts/js/controller.js') }}"></script>

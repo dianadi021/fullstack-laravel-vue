@@ -1,0 +1,5432 @@
+[
+    {
+        "id": "1101",
+        "parent_code": "11",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Selatan",
+        "latitude": "3.1618538409",
+        "longitude": "97.4365177186"
+    },
+    {
+        "id": "1102",
+        "parent_code": "11",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Tenggara",
+        "latitude": "3.3689313686",
+        "longitude": "97.6975971654"
+    },
+    {
+        "id": "1103",
+        "parent_code": "11",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Timur",
+        "latitude": "4.6304253284",
+        "longitude": "97.6261088637"
+    },
+    {
+        "id": "1104",
+        "parent_code": "11",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Tengah",
+        "latitude": "4.519888081",
+        "longitude": "96.8813051968"
+    },
+    {
+        "id": "1105",
+        "parent_code": "11",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Barat",
+        "latitude": "4.4544678768",
+        "longitude": "96.18087912"
+    },
+    {
+        "id": "1106",
+        "parent_code": "11",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Besar",
+        "latitude": "5.380104503",
+        "longitude": "95.5151682003"
+    },
+    {
+        "id": "1107",
+        "parent_code": "11",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pidie",
+        "latitude": "5.053555789",
+        "longitude": "96.033428374"
+    },
+    {
+        "id": "1108",
+        "parent_code": "11",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Utara",
+        "latitude": "5.0157764991",
+        "longitude": "97.1818092951"
+    },
+    {
+        "id": "1109",
+        "parent_code": "11",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Simeulue",
+        "latitude": "2.6128279748",
+        "longitude": "96.0862602799"
+    },
+    {
+        "id": "1110",
+        "parent_code": "11",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Singkil",
+        "latitude": "2.3479697391",
+        "longitude": "97.8450565458"
+    },
+    {
+        "id": "1111",
+        "parent_code": "11",
+        "code": "",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bireuen",
+        "latitude": "5.0938255191",
+        "longitude": "96.6070350974"
+    },
+    {
+        "id": "1112",
+        "parent_code": "11",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Barat Daya",
+        "latitude": "3.8226302106",
+        "longitude": "96.8802947195"
+    },
+    {
+        "id": "1113",
+        "parent_code": "11",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Gayo Lues",
+        "latitude": "3.9826936359",
+        "longitude": "97.3600863625"
+    },
+    {
+        "id": "1114",
+        "parent_code": "11",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Jaya",
+        "latitude": "4.8324247495",
+        "longitude": "95.6780893228"
+    },
+    {
+        "id": "1115",
+        "parent_code": "11",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nagan Raya",
+        "latitude": "4.1642396413",
+        "longitude": "96.5076862947"
+    },
+    {
+        "id": "1116",
+        "parent_code": "11",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Aceh Tamiang",
+        "latitude": "4.2244668836",
+        "longitude": "97.9829920119"
+    },
+    {
+        "id": "1117",
+        "parent_code": "11",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bener Meriah",
+        "latitude": "4.7700537375",
+        "longitude": "97.0041179538"
+    },
+    {
+        "id": "1118",
+        "parent_code": "11",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pidie Jaya",
+        "latitude": "5.1247443389",
+        "longitude": "96.2133312195"
+    },
+    {
+        "id": "1171",
+        "parent_code": "11",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Banda Aceh",
+        "latitude": "5.5587044039",
+        "longitude": "95.3277134583"
+    },
+    {
+        "id": "1172",
+        "parent_code": "11",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Sabang",
+        "latitude": "5.8377606748",
+        "longitude": "95.3057198182"
+    },
+    {
+        "id": "1173",
+        "parent_code": "11",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Lhokseumawe",
+        "latitude": "5.1652668393",
+        "longitude": "97.1111993228"
+    },
+    {
+        "id": "1174",
+        "parent_code": "11",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Langsa",
+        "latitude": "4.4818194638",
+        "longitude": "97.9805960621"
+    },
+    {
+        "id": "1175",
+        "parent_code": "11",
+        "code": "75",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Subulussalam",
+        "latitude": "2.7307402024",
+        "longitude": "97.9360160014"
+    },
+    {
+        "id": "1201",
+        "parent_code": "12",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tapanuli Tengah",
+        "latitude": "1.8399938833",
+        "longitude": "98.6515353058"
+    },
+    {
+        "id": "1202",
+        "parent_code": "12",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tapanuli Utara",
+        "latitude": "2.001191234",
+        "longitude": "99.0650773161"
+    },
+    {
+        "id": "1203",
+        "parent_code": "12",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tapanuli Selatan",
+        "latitude": "1.500481008",
+        "longitude": "99.2649239739"
+    },
+    {
+        "id": "1204",
+        "parent_code": "12",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nias",
+        "latitude": "1.0784954757",
+        "longitude": "97.7194583073"
+    },
+    {
+        "id": "1205",
+        "parent_code": "12",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Langkat",
+        "latitude": "3.7087596198",
+        "longitude": "98.2236698827"
+    },
+    {
+        "id": "1206",
+        "parent_code": "12",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Karo",
+        "latitude": "3.1184351054",
+        "longitude": "98.3013563517"
+    },
+    {
+        "id": "1207",
+        "parent_code": "12",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Deli Serdang",
+        "latitude": "3.4803056311",
+        "longitude": "98.6948221963"
+    },
+    {
+        "id": "1208",
+        "parent_code": "12",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Simalungun",
+        "latitude": "2.9696967367",
+        "longitude": "99.0215583956"
+    },
+    {
+        "id": "1209",
+        "parent_code": "12",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Asahan",
+        "latitude": "2.8049256995",
+        "longitude": "99.5593602703"
+    },
+    {
+        "id": "1210",
+        "parent_code": "12",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Labuhanbatu",
+        "latitude": "2.2856237163",
+        "longitude": "100.0615883913"
+    },
+    {
+        "id": "1211",
+        "parent_code": "12",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Dairi",
+        "latitude": "2.8405070439",
+        "longitude": "98.2792133842"
+    },
+    {
+        "id": "1212",
+        "parent_code": "12",
+        "code": "",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Toba Samosir",
+        "latitude": "2.3889582122",
+        "longitude": "99.2475687205"
+    },
+    {
+        "id": "1213",
+        "parent_code": "12",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mandailing Natal",
+        "latitude": "0.7763978727",
+        "longitude": "99.3686717365"
+    },
+    {
+        "id": "1214",
+        "parent_code": "12",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nias Selatan",
+        "latitude": "0.3293037924",
+        "longitude": "98.0989050677"
+    },
+    {
+        "id": "1215",
+        "parent_code": "12",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pakpak Bharat",
+        "latitude": "2.5494123348",
+        "longitude": "98.2430572397"
+    },
+    {
+        "id": "1216",
+        "parent_code": "12",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Humbang Hasundutan",
+        "latitude": "2.2611646493",
+        "longitude": "98.5777126619"
+    },
+    {
+        "id": "1217",
+        "parent_code": "12",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Samosir",
+        "latitude": "2.5622823553",
+        "longitude": "98.7289599506"
+    },
+    {
+        "id": "1218",
+        "parent_code": "12",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Serdang Bedagai",
+        "latitude": "3.3662576774",
+        "longitude": "99.0577081554"
+    },
+    {
+        "id": "1219",
+        "parent_code": "12",
+        "code": "19",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Batu Bara",
+        "latitude": "3.2352494055",
+        "longitude": "99.4725591612"
+    },
+    {
+        "id": "1220",
+        "parent_code": "12",
+        "code": "20",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Padang Lawas Utara",
+        "latitude": "1.5907679538",
+        "longitude": "99.7631912226"
+    },
+    {
+        "id": "1221",
+        "parent_code": "12",
+        "code": "21",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Padang Lawas",
+        "latitude": "1.1422544669",
+        "longitude": "99.8512054584"
+    },
+    {
+        "id": "1222",
+        "parent_code": "12",
+        "code": "22",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Labuhanbatu Selatan",
+        "latitude": "1.8419367581",
+        "longitude": "100.1400176231"
+    },
+    {
+        "id": "1223",
+        "parent_code": "12",
+        "code": "23",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Labuhanbatu Utara",
+        "latitude": "2.4109942757",
+        "longitude": "99.7578002571"
+    },
+    {
+        "id": "1224",
+        "parent_code": "12",
+        "code": "24",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nias Utara",
+        "latitude": "1.3149454928",
+        "longitude": "97.3555905456"
+    },
+    {
+        "id": "1225",
+        "parent_code": "12",
+        "code": "25",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nias Barat",
+        "latitude": "1.030672531",
+        "longitude": "97.4911957665"
+    },
+    {
+        "id": "1271",
+        "parent_code": "12",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Medan",
+        "latitude": "3.6289471104",
+        "longitude": "98.6673644709"
+    },
+    {
+        "id": "1272",
+        "parent_code": "12",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pematangsiantar",
+        "latitude": "2.961417575",
+        "longitude": "99.0590338133"
+    },
+    {
+        "id": "1273",
+        "parent_code": "12",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Sibolga",
+        "latitude": "1.7425497688",
+        "longitude": "98.7893042753"
+    },
+    {
+        "id": "1274",
+        "parent_code": "12",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tanjung Balai",
+        "latitude": "2.963995556",
+        "longitude": "99.7947250866"
+    },
+    {
+        "id": "1275",
+        "parent_code": "12",
+        "code": "75",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Binjai",
+        "latitude": "3.6002270139",
+        "longitude": "98.4892193529"
+    },
+    {
+        "id": "1276",
+        "parent_code": "12",
+        "code": "76",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tebing Tinggi",
+        "latitude": "3.3282698019",
+        "longitude": "99.1560308546"
+    },
+    {
+        "id": "1277",
+        "parent_code": "12",
+        "code": "77",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Padangsidimpuan",
+        "latitude": "1.3908149786",
+        "longitude": "99.2856939997"
+    },
+    {
+        "id": "1278",
+        "parent_code": "12",
+        "code": "78",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Gunungsitoli",
+        "latitude": "1.2983329919",
+        "longitude": "97.5628780576"
+    },
+    {
+        "id": "1301",
+        "parent_code": "13",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pesisir Selatan",
+        "latitude": "-1.7382766751",
+        "longitude": "100.8792559136"
+    },
+    {
+        "id": "1302",
+        "parent_code": "13",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Solok",
+        "latitude": "-0.9835702492",
+        "longitude": "100.8412844777"
+    },
+    {
+        "id": "1303",
+        "parent_code": "13",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sijunjung",
+        "latitude": "-0.6905131703",
+        "longitude": "101.0961499871"
+    },
+    {
+        "id": "1304",
+        "parent_code": "13",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tanah Datar",
+        "latitude": "-0.4676489604",
+        "longitude": "100.5840613483"
+    },
+    {
+        "id": "1305",
+        "parent_code": "13",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Padang Pariaman",
+        "latitude": "-0.5649971662",
+        "longitude": "100.2279323947"
+    },
+    {
+        "id": "1306",
+        "parent_code": "13",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Agam",
+        "latitude": "-0.2518796577",
+        "longitude": "100.1708835906"
+    },
+    {
+        "id": "1307",
+        "parent_code": "13",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lima Puluh Kota",
+        "latitude": "0.0203451706",
+        "longitude": "100.5696587631"
+    },
+    {
+        "id": "1308",
+        "parent_code": "13",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pasaman",
+        "latitude": "0.3926172978",
+        "longitude": "100.0872209073"
+    },
+    {
+        "id": "1309",
+        "parent_code": "13",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Mentawai",
+        "latitude": "-1.8490641165",
+        "longitude": "99.3366259481"
+    },
+    {
+        "id": "1310",
+        "parent_code": "13",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Dharmasraya",
+        "latitude": "-1.1312305955",
+        "longitude": "101.5572221429"
+    },
+    {
+        "id": "1311",
+        "parent_code": "13",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Solok Selatan",
+        "latitude": "-1.423591691",
+        "longitude": "101.2676792721"
+    },
+    {
+        "id": "1312",
+        "parent_code": "13",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pasaman Barat",
+        "latitude": "0.2034513242",
+        "longitude": "99.6855025007"
+    },
+    {
+        "id": "1371",
+        "parent_code": "13",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Padang",
+        "latitude": "-0.89887185",
+        "longitude": "100.4376436705"
+    },
+    {
+        "id": "1372",
+        "parent_code": "13",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Solok",
+        "latitude": "-0.7828670009",
+        "longitude": "100.6298660368"
+    },
+    {
+        "id": "1373",
+        "parent_code": "13",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Sawahlunto",
+        "latitude": "-0.6526981456",
+        "longitude": "100.7544060019"
+    },
+    {
+        "id": "1374",
+        "parent_code": "13",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Padang Panjang",
+        "latitude": "-0.4724543721",
+        "longitude": "100.4022956653"
+    },
+    {
+        "id": "1375",
+        "parent_code": "13",
+        "code": "75",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bukittinggi",
+        "latitude": "-0.2995833927",
+        "longitude": "100.3725370233"
+    },
+    {
+        "id": "1376",
+        "parent_code": "13",
+        "code": "76",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Payakumbuh",
+        "latitude": "-0.2269853647",
+        "longitude": "100.6321179697"
+    },
+    {
+        "id": "1377",
+        "parent_code": "13",
+        "code": "77",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pariaman",
+        "latitude": "-0.6085969537",
+        "longitude": "100.1381007498"
+    },
+    {
+        "id": "1401",
+        "parent_code": "14",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kampar",
+        "latitude": "0.3218166613",
+        "longitude": "101.0688650102"
+    },
+    {
+        "id": "1402",
+        "parent_code": "14",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Indragiri Hulu",
+        "latitude": "-0.5476717654",
+        "longitude": "102.3259905745"
+    },
+    {
+        "id": "1403",
+        "parent_code": "14",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bengkalis",
+        "latitude": "1.4119064602",
+        "longitude": "101.6428613308"
+    },
+    {
+        "id": "1404",
+        "parent_code": "14",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Indragiri Hilir",
+        "latitude": "-0.2326423622",
+        "longitude": "103.1595858762"
+    },
+    {
+        "id": "1405",
+        "parent_code": "14",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pelalawan",
+        "latitude": "0.2175088684",
+        "longitude": "102.2803876779"
+    },
+    {
+        "id": "1406",
+        "parent_code": "14",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Rokan Hulu",
+        "latitude": "0.9413576106",
+        "longitude": "100.5070643606"
+    },
+    {
+        "id": "1407",
+        "parent_code": "14",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Rokan Hilir",
+        "latitude": "1.7731272764",
+        "longitude": "100.7491910663"
+    },
+    {
+        "id": "1408",
+        "parent_code": "14",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Siak",
+        "latitude": "0.8176636391",
+        "longitude": "101.87925718"
+    },
+    {
+        "id": "1409",
+        "parent_code": "14",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kuantan Singingi",
+        "latitude": "-0.4741700388",
+        "longitude": "101.50591625"
+    },
+    {
+        "id": "1410",
+        "parent_code": "14",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Meranti",
+        "latitude": "1.0032595798",
+        "longitude": "102.649343507"
+    },
+    {
+        "id": "1471",
+        "parent_code": "14",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pekanbaru",
+        "latitude": "0.5512765526",
+        "longitude": "101.4657262946"
+    },
+    {
+        "id": "1472",
+        "parent_code": "14",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Dumai",
+        "latitude": "1.8207559201",
+        "longitude": "101.2822869208"
+    },
+    {
+        "id": "1501",
+        "parent_code": "15",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kerinci",
+        "latitude": "-2.0323166508",
+        "longitude": "101.4653245444"
+    },
+    {
+        "id": "1502",
+        "parent_code": "15",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Merangin",
+        "latitude": "-2.1931162017",
+        "longitude": "102.0683378415"
+    },
+    {
+        "id": "1503",
+        "parent_code": "15",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sarolangun",
+        "latitude": "-2.3062600655",
+        "longitude": "102.6725493696"
+    },
+    {
+        "id": "1504",
+        "parent_code": "15",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Batanghari",
+        "latitude": "-1.7497988095",
+        "longitude": "103.0979462043"
+    },
+    {
+        "id": "1505",
+        "parent_code": "15",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Muaro Jambi",
+        "latitude": "-1.6116336776",
+        "longitude": "103.7422286788"
+    },
+    {
+        "id": "1506",
+        "parent_code": "15",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tanjung Jabung Barat",
+        "latitude": "-1.0663490215",
+        "longitude": "103.1596045277"
+    },
+    {
+        "id": "1507",
+        "parent_code": "15",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tanjung Jabung Timur",
+        "latitude": "-1.2487250707",
+        "longitude": "104.006014689"
+    },
+    {
+        "id": "1508",
+        "parent_code": "15",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bungo",
+        "latitude": "-1.5915799673",
+        "longitude": "101.9271131435"
+    },
+    {
+        "id": "1509",
+        "parent_code": "15",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tebo",
+        "latitude": "-1.3075639169",
+        "longitude": "102.3642928248"
+    },
+    {
+        "id": "1571",
+        "parent_code": "15",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Jambi",
+        "latitude": "-1.6181774221",
+        "longitude": "103.599789139"
+    },
+    {
+        "id": "1572",
+        "parent_code": "15",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Sungai Penuh",
+        "latitude": "-2.1132906932",
+        "longitude": "101.3392575947"
+    },
+    {
+        "id": "1601",
+        "parent_code": "16",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ogan Komering Ulu",
+        "latitude": "-4.0937293671",
+        "longitude": "104.1052192472"
+    },
+    {
+        "id": "1602",
+        "parent_code": "16",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ogan Komering Ilir",
+        "latitude": "-3.3637134927",
+        "longitude": "105.3973096784"
+    },
+    {
+        "id": "1603",
+        "parent_code": "16",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Muara Enim",
+        "latitude": "-3.6366013665",
+        "longitude": "103.9966885665"
+    },
+    {
+        "id": "1604",
+        "parent_code": "16",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lahat",
+        "latitude": "-3.8288234057",
+        "longitude": "103.3789490909"
+    },
+    {
+        "id": "1605",
+        "parent_code": "16",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Musi Rawas",
+        "latitude": "-3.165397273",
+        "longitude": "103.1365493756"
+    },
+    {
+        "id": "1606",
+        "parent_code": "16",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Musi Banyuasin",
+        "latitude": "-2.4502899664",
+        "longitude": "103.8278346515"
+    },
+    {
+        "id": "1607",
+        "parent_code": "16",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Banyuasin",
+        "latitude": "-2.520170232",
+        "longitude": "104.6869968661"
+    },
+    {
+        "id": "1608",
+        "parent_code": "16",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ogan Komering Ulu Timur",
+        "latitude": "-4.0743113525",
+        "longitude": "104.566988873"
+    },
+    {
+        "id": "1609",
+        "parent_code": "16",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ogan Komering Ulu Selatan",
+        "latitude": "-4.5889354659",
+        "longitude": "103.9101385521"
+    },
+    {
+        "id": "1610",
+        "parent_code": "16",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ogan Ilir",
+        "latitude": "-3.4152936167",
+        "longitude": "104.6053138608"
+    },
+    {
+        "id": "1611",
+        "parent_code": "16",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Empat Lawang",
+        "latitude": "-3.7514890107",
+        "longitude": "102.9480004628"
+    },
+    {
+        "id": "1612",
+        "parent_code": "16",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Penukal Abab Lematang Ilir",
+        "latitude": "-3.2009762702",
+        "longitude": "103.9949752642"
+    },
+    {
+        "id": "1613",
+        "parent_code": "16",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Musi Rawas Utara",
+        "latitude": "-2.7401701358",
+        "longitude": "102.7437524327"
+    },
+    {
+        "id": "1671",
+        "parent_code": "16",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Palembang",
+        "latitude": "-2.9717194498",
+        "longitude": "104.7413197252"
+    },
+    {
+        "id": "1672",
+        "parent_code": "16",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pagar Alam",
+        "latitude": "-4.1176017649",
+        "longitude": "103.2663871083"
+    },
+    {
+        "id": "1673",
+        "parent_code": "16",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Lubuk Linggau",
+        "latitude": "-3.2630018672",
+        "longitude": "102.8751096535"
+    },
+    {
+        "id": "1674",
+        "parent_code": "16",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Prabumulih",
+        "latitude": "-3.4479604543",
+        "longitude": "104.2288756566"
+    },
+    {
+        "id": "1701",
+        "parent_code": "17",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bengkulu Selatan",
+        "latitude": "-4.3483972135",
+        "longitude": "103.0211609636"
+    },
+    {
+        "id": "1702",
+        "parent_code": "17",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Rejang Lebong",
+        "latitude": "-3.4304548355",
+        "longitude": "102.7020451671"
+    },
+    {
+        "id": "1703",
+        "parent_code": "17",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bengkulu Utara",
+        "latitude": "-3.4188283621",
+        "longitude": "102.0018823985"
+    },
+    {
+        "id": "1704",
+        "parent_code": "17",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kaur",
+        "latitude": "-4.6111382895",
+        "longitude": "103.4123246414"
+    },
+    {
+        "id": "1705",
+        "parent_code": "17",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Seluma",
+        "latitude": "-4.0520067561",
+        "longitude": "102.6595139729"
+    },
+    {
+        "id": "1706",
+        "parent_code": "17",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Muko Muko",
+        "latitude": "-2.6903158368",
+        "longitude": "101.4818952974"
+    },
+    {
+        "id": "1707",
+        "parent_code": "17",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lebong",
+        "latitude": "-3.0900072442",
+        "longitude": "102.2478186586"
+    },
+    {
+        "id": "1708",
+        "parent_code": "17",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepahiang",
+        "latitude": "-3.6289348288",
+        "longitude": "102.6444509971"
+    },
+    {
+        "id": "1709",
+        "parent_code": "17",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bengkulu Tengah",
+        "latitude": "-3.6852212514",
+        "longitude": "102.4043565647"
+    },
+    {
+        "id": "1771",
+        "parent_code": "17",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bengkulu",
+        "latitude": "-3.8413969045",
+        "longitude": "102.3081576694"
+    },
+    {
+        "id": "1801",
+        "parent_code": "18",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lampung Selatan",
+        "latitude": "-5.529926934",
+        "longitude": "105.5012001405"
+    },
+    {
+        "id": "1802",
+        "parent_code": "18",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lampung Tengah",
+        "latitude": "-4.8563026159",
+        "longitude": "105.2720764819"
+    },
+    {
+        "id": "1803",
+        "parent_code": "18",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lampung Utara",
+        "latitude": "-4.7967700326",
+        "longitude": "104.8073460575"
+    },
+    {
+        "id": "1804",
+        "parent_code": "18",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lampung Barat",
+        "latitude": "-5.0505688203",
+        "longitude": "104.2529764168"
+    },
+    {
+        "id": "1805",
+        "parent_code": "18",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tulang Bawang",
+        "latitude": "-4.3731659399",
+        "longitude": "105.5275912461"
+    },
+    {
+        "id": "1806",
+        "parent_code": "18",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tanggamus",
+        "latitude": "-5.4280903075",
+        "longitude": "104.6740674284"
+    },
+    {
+        "id": "1807",
+        "parent_code": "18",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lampung Timur",
+        "latitude": "-5.1313333938",
+        "longitude": "105.6489901236"
+    },
+    {
+        "id": "1808",
+        "parent_code": "18",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Way Kanan",
+        "latitude": "-4.5142556394",
+        "longitude": "104.6061599884"
+    },
+    {
+        "id": "1809",
+        "parent_code": "18",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pesawaran",
+        "latitude": "-5.4734752726",
+        "longitude": "105.1151899693"
+    },
+    {
+        "id": "1810",
+        "parent_code": "18",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pringsewu",
+        "latitude": "-5.3363609143",
+        "longitude": "104.9334051706"
+    },
+    {
+        "id": "1811",
+        "parent_code": "18",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mesuji",
+        "latitude": "-4.0248419852",
+        "longitude": "105.3783745759"
+    },
+    {
+        "id": "1812",
+        "parent_code": "18",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tulang Bawang Barat",
+        "latitude": "-4.4257041176",
+        "longitude": "105.0874396587"
+    },
+    {
+        "id": "1813",
+        "parent_code": "18",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pesisir Barat",
+        "latitude": "-5.3355305774",
+        "longitude": "104.1628396637"
+    },
+    {
+        "id": "1871",
+        "parent_code": "18",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bandar Lampung",
+        "latitude": "-5.41419718",
+        "longitude": "105.2621319273"
+    },
+    {
+        "id": "1872",
+        "parent_code": "18",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Metro",
+        "latitude": "-5.1172951698",
+        "longitude": "105.307958279"
+    },
+    {
+        "id": "1901",
+        "parent_code": "19",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bangka",
+        "latitude": "-1.9042781954",
+        "longitude": "105.9196314214"
+    },
+    {
+        "id": "1902",
+        "parent_code": "19",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Belitung",
+        "latitude": "-2.8675999608",
+        "longitude": "107.7101798057"
+    },
+    {
+        "id": "1903",
+        "parent_code": "19",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bangka Selatan",
+        "latitude": "-2.7786061836",
+        "longitude": "106.3491431639"
+    },
+    {
+        "id": "1904",
+        "parent_code": "19",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bangka Tengah",
+        "latitude": "-2.4324255486",
+        "longitude": "106.2339112776"
+    },
+    {
+        "id": "1905",
+        "parent_code": "19",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bangka Barat",
+        "latitude": "-1.8892112371",
+        "longitude": "105.4876289666"
+    },
+    {
+        "id": "1906",
+        "parent_code": "19",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Belitung Timur",
+        "latitude": "-2.9084569102",
+        "longitude": "108.0481790886"
+    },
+    {
+        "id": "1971",
+        "parent_code": "19",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pangkal Pinang",
+        "latitude": "-2.1105131488",
+        "longitude": "106.113210199"
+    },
+    {
+        "id": "2101",
+        "parent_code": "21",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bintan",
+        "latitude": "1.0076247667",
+        "longitude": "104.7038090172"
+    },
+    {
+        "id": "2102",
+        "parent_code": "21",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Karimun",
+        "latitude": "0.8255081893",
+        "longitude": "103.531000073"
+    },
+    {
+        "id": "2103",
+        "parent_code": "21",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Natuna",
+        "latitude": "3.782118982",
+        "longitude": "108.2603397174"
+    },
+    {
+        "id": "2104",
+        "parent_code": "21",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lingga",
+        "latitude": "-0.2218098025",
+        "longitude": "104.5269524671"
+    },
+    {
+        "id": "2105",
+        "parent_code": "21",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Anambas",
+        "latitude": "3.0876387683",
+        "longitude": "106.0645505541"
+    },
+    {
+        "id": "2171",
+        "parent_code": "21",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Batam",
+        "latitude": "0.9629877462",
+        "longitude": "104.063490938"
+    },
+    {
+        "id": "2172",
+        "parent_code": "21",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tanjung Pinang",
+        "latitude": "0.9195784605",
+        "longitude": "104.4870654946"
+    },
+    {
+        "id": "3101",
+        "parent_code": "31",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Adm. Kep. Seribu",
+        "latitude": "-5.7003665187",
+        "longitude": "106.5789559022"
+    },
+    {
+        "id": "3171",
+        "parent_code": "31",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Adm. Jakarta Pusat",
+        "latitude": "-6.1812569413",
+        "longitude": "106.8347847742"
+    },
+    {
+        "id": "3172",
+        "parent_code": "31",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Adm. Jakarta Utara",
+        "latitude": "-6.1271904003",
+        "longitude": "106.8665450422"
+    },
+    {
+        "id": "3173",
+        "parent_code": "31",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Adm. Jakarta Barat",
+        "latitude": "-6.1652241432",
+        "longitude": "106.7482072218"
+    },
+    {
+        "id": "3174",
+        "parent_code": "31",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Adm. Jakarta Selatan",
+        "latitude": "-6.2725236439",
+        "longitude": "106.8099569113"
+    },
+    {
+        "id": "3175",
+        "parent_code": "31",
+        "code": "75",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Adm. Jakarta Timur",
+        "latitude": "-6.2547924081",
+        "longitude": "106.9006320648"
+    },
+    {
+        "id": "3201",
+        "parent_code": "32",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bogor",
+        "latitude": "-6.5597974842",
+        "longitude": "106.7670466485"
+    },
+    {
+        "id": "3202",
+        "parent_code": "32",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sukabumi",
+        "latitude": "-7.0763182789",
+        "longitude": "106.7075692296"
+    },
+    {
+        "id": "3203",
+        "parent_code": "32",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Cianjur",
+        "latitude": "-7.1308892878",
+        "longitude": "107.15920189"
+    },
+    {
+        "id": "3204",
+        "parent_code": "32",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bandung",
+        "latitude": "-7.0975880233",
+        "longitude": "107.6087272983"
+    },
+    {
+        "id": "3205",
+        "parent_code": "32",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Garut",
+        "latitude": "-7.3594474152",
+        "longitude": "107.7879376504"
+    },
+    {
+        "id": "3206",
+        "parent_code": "32",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tasikmalaya",
+        "latitude": "-7.4967360195",
+        "longitude": "108.1415665499"
+    },
+    {
+        "id": "3207",
+        "parent_code": "32",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ciamis",
+        "latitude": "-7.2902499242",
+        "longitude": "108.4286452357"
+    },
+    {
+        "id": "3208",
+        "parent_code": "32",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kuningan",
+        "latitude": "-7.003379281",
+        "longitude": "108.5598109853"
+    },
+    {
+        "id": "3209",
+        "parent_code": "32",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Cirebon",
+        "latitude": "-6.7462212826",
+        "longitude": "108.552156661"
+    },
+    {
+        "id": "3210",
+        "parent_code": "32",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Majalengka",
+        "latitude": "-6.8150844558",
+        "longitude": "108.2571936536"
+    },
+    {
+        "id": "3211",
+        "parent_code": "32",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sumedang",
+        "latitude": "-6.8247480184",
+        "longitude": "107.9812718316"
+    },
+    {
+        "id": "3212",
+        "parent_code": "32",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Indramayu",
+        "latitude": "-6.4474875435",
+        "longitude": "108.1690266721"
+    },
+    {
+        "id": "3213",
+        "parent_code": "32",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Subang",
+        "latitude": "-6.4846429896",
+        "longitude": "107.7318325345"
+    },
+    {
+        "id": "3214",
+        "parent_code": "32",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Purwakarta",
+        "latitude": "-6.5952596761",
+        "longitude": "107.430775994"
+    },
+    {
+        "id": "3215",
+        "parent_code": "32",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Karawang",
+        "latitude": "-6.2522827183",
+        "longitude": "107.3542921154"
+    },
+    {
+        "id": "3216",
+        "parent_code": "32",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bekasi",
+        "latitude": "-6.2197473078",
+        "longitude": "107.1217120424"
+    },
+    {
+        "id": "3217",
+        "parent_code": "32",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bandung Barat",
+        "latitude": "-6.8904375408",
+        "longitude": "107.4149819751"
+    },
+    {
+        "id": "3218",
+        "parent_code": "32",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pangandaran",
+        "latitude": "-7.6356411222",
+        "longitude": "108.5185909899"
+    },
+    {
+        "id": "3271",
+        "parent_code": "32",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bogor",
+        "latitude": "-6.5934893946",
+        "longitude": "106.7993562459"
+    },
+    {
+        "id": "3272",
+        "parent_code": "32",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Sukabumi",
+        "latitude": "-6.93993882",
+        "longitude": "106.9243569963"
+    },
+    {
+        "id": "3273",
+        "parent_code": "32",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bandung",
+        "latitude": "-6.9192413812",
+        "longitude": "107.636600627"
+    },
+    {
+        "id": "3274",
+        "parent_code": "32",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Cirebon",
+        "latitude": "-6.7417188089",
+        "longitude": "108.5533056861"
+    },
+    {
+        "id": "3275",
+        "parent_code": "32",
+        "code": "75",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bekasi",
+        "latitude": "-6.2808335528",
+        "longitude": "106.9753661072"
+    },
+    {
+        "id": "3276",
+        "parent_code": "32",
+        "code": "76",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Depok",
+        "latitude": "-6.39620401",
+        "longitude": "106.8168366115"
+    },
+    {
+        "id": "3277",
+        "parent_code": "32",
+        "code": "77",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Cimahi",
+        "latitude": "-6.8863189829",
+        "longitude": "107.5428959347"
+    },
+    {
+        "id": "3278",
+        "parent_code": "32",
+        "code": "78",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tasikmalaya",
+        "latitude": "-7.3605269144",
+        "longitude": "108.2191234772"
+    },
+    {
+        "id": "3279",
+        "parent_code": "32",
+        "code": "79",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Banjar",
+        "latitude": "-7.3769887499",
+        "longitude": "108.5672046175"
+    },
+    {
+        "id": "3301",
+        "parent_code": "33",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Cilacap",
+        "latitude": "-7.4889272896",
+        "longitude": "108.8898386751"
+    },
+    {
+        "id": "3302",
+        "parent_code": "33",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Banyumas",
+        "latitude": "-7.4555085797",
+        "longitude": "109.175788181"
+    },
+    {
+        "id": "3303",
+        "parent_code": "33",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Purbalingga",
+        "latitude": "-7.323229862",
+        "longitude": "109.4072046977"
+    },
+    {
+        "id": "3304",
+        "parent_code": "33",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Banjarnegara",
+        "latitude": "-7.3513271021",
+        "longitude": "109.657051515"
+    },
+    {
+        "id": "3305",
+        "parent_code": "33",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kebumen",
+        "latitude": "-7.6549642699",
+        "longitude": "109.61735311"
+    },
+    {
+        "id": "3306",
+        "parent_code": "33",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Purworejo",
+        "latitude": "-7.7003805519",
+        "longitude": "109.9661257143"
+    },
+    {
+        "id": "3307",
+        "parent_code": "33",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Wonosobo",
+        "latitude": "-7.4163023715",
+        "longitude": "109.9073549445"
+    },
+    {
+        "id": "3308",
+        "parent_code": "33",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Magelang",
+        "latitude": "-7.5017368911",
+        "longitude": "110.2472133929"
+    },
+    {
+        "id": "3309",
+        "parent_code": "33",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Boyolali",
+        "latitude": "-7.4165224435",
+        "longitude": "110.6524987836"
+    },
+    {
+        "id": "3310",
+        "parent_code": "33",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Klaten",
+        "latitude": "-7.6858181058",
+        "longitude": "110.6194520418"
+    },
+    {
+        "id": "3311",
+        "parent_code": "33",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sukoharjo",
+        "latitude": "-7.6808435",
+        "longitude": "110.8348369455"
+    },
+    {
+        "id": "3312",
+        "parent_code": "33",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Wonogiri",
+        "latitude": "-7.9192851742",
+        "longitude": "110.9992131772"
+    },
+    {
+        "id": "3313",
+        "parent_code": "33",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Karanganyar",
+        "latitude": "-7.6141389705",
+        "longitude": "111.0192416258"
+    },
+    {
+        "id": "3314",
+        "parent_code": "33",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sragen",
+        "latitude": "-7.3853368209",
+        "longitude": "110.9741441333"
+    },
+    {
+        "id": "3315",
+        "parent_code": "33",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Grobogan",
+        "latitude": "-7.1176368691",
+        "longitude": "110.92717766"
+    },
+    {
+        "id": "3316",
+        "parent_code": "33",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Blora",
+        "latitude": "-7.074438334",
+        "longitude": "111.3874350129"
+    },
+    {
+        "id": "3317",
+        "parent_code": "33",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Rembang",
+        "latitude": "-6.7751335385",
+        "longitude": "111.4615195205"
+    },
+    {
+        "id": "3318",
+        "parent_code": "33",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pati",
+        "latitude": "-6.7433272541",
+        "longitude": "111.0422828132"
+    },
+    {
+        "id": "3319",
+        "parent_code": "33",
+        "code": "19",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kudus",
+        "latitude": "-6.7902612565",
+        "longitude": "110.8699072012"
+    },
+    {
+        "id": "3320",
+        "parent_code": "33",
+        "code": "20",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Jepara",
+        "latitude": "-6.549003459",
+        "longitude": "110.7681294611"
+    },
+    {
+        "id": "3321",
+        "parent_code": "33",
+        "code": "21",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Demak",
+        "latitude": "-6.9107740983",
+        "longitude": "110.6340047082"
+    },
+    {
+        "id": "3322",
+        "parent_code": "33",
+        "code": "22",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Semarang",
+        "latitude": "-7.2708990936",
+        "longitude": "110.4735077148"
+    },
+    {
+        "id": "3323",
+        "parent_code": "33",
+        "code": "23",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Temanggung",
+        "latitude": "-7.257697522",
+        "longitude": "110.1363023236"
+    },
+    {
+        "id": "3324",
+        "parent_code": "33",
+        "code": "24",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kendal",
+        "latitude": "-7.0386945582",
+        "longitude": "110.1573376939"
+    },
+    {
+        "id": "3325",
+        "parent_code": "33",
+        "code": "25",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Batang",
+        "latitude": "-7.0210015635",
+        "longitude": "109.8615930813"
+    },
+    {
+        "id": "3326",
+        "parent_code": "33",
+        "code": "26",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pekalongan",
+        "latitude": "-7.0570055159",
+        "longitude": "109.620500613"
+    },
+    {
+        "id": "3327",
+        "parent_code": "33",
+        "code": "27",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pemalang",
+        "latitude": "-7.0368042461",
+        "longitude": "109.3951726166"
+    },
+    {
+        "id": "3328",
+        "parent_code": "33",
+        "code": "28",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tegal",
+        "latitude": "-7.0287754984",
+        "longitude": "109.1585153634"
+    },
+    {
+        "id": "3329",
+        "parent_code": "33",
+        "code": "29",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Brebes",
+        "latitude": "-7.0627720512",
+        "longitude": "108.9295264813"
+    },
+    {
+        "id": "3371",
+        "parent_code": "33",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Magelang",
+        "latitude": "-7.4765545104",
+        "longitude": "110.2201113974"
+    },
+    {
+        "id": "3372",
+        "parent_code": "33",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Surakarta",
+        "latitude": "-7.5578939784",
+        "longitude": "110.8231448526"
+    },
+    {
+        "id": "3373",
+        "parent_code": "33",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Salatiga",
+        "latitude": "-7.3376775616",
+        "longitude": "110.4983738237"
+    },
+    {
+        "id": "3374",
+        "parent_code": "33",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Semarang",
+        "latitude": "-7.0238986054",
+        "longitude": "110.3915226316"
+    },
+    {
+        "id": "3375",
+        "parent_code": "33",
+        "code": "75",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pekalongan",
+        "latitude": "-6.8934086823",
+        "longitude": "109.6771550861"
+    },
+    {
+        "id": "3376",
+        "parent_code": "33",
+        "code": "76",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tegal",
+        "latitude": "-6.8691745589",
+        "longitude": "109.1157470874"
+    },
+    {
+        "id": "3401",
+        "parent_code": "34",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kulon Progo",
+        "latitude": "-7.8187089732",
+        "longitude": "110.1671145296"
+    },
+    {
+        "id": "3402",
+        "parent_code": "34",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bantul",
+        "latitude": "-7.901333455",
+        "longitude": "110.3548814943"
+    },
+    {
+        "id": "3403",
+        "parent_code": "34",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Gunungkidul",
+        "latitude": "-7.9939102538",
+        "longitude": "110.6117975273"
+    },
+    {
+        "id": "3404",
+        "parent_code": "34",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sleman",
+        "latitude": "-7.716463527",
+        "longitude": "110.3832129928"
+    },
+    {
+        "id": "3471",
+        "parent_code": "34",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Yogyakarta",
+        "latitude": "-7.8032975193",
+        "longitude": "110.374357935"
+    },
+    {
+        "id": "3501",
+        "parent_code": "35",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pacitan",
+        "latitude": "-8.1249515395",
+        "longitude": "111.1780848739"
+    },
+    {
+        "id": "3502",
+        "parent_code": "35",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ponorogo",
+        "latitude": "-7.9313279495",
+        "longitude": "111.4995304317"
+    },
+    {
+        "id": "3503",
+        "parent_code": "35",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Trenggalek",
+        "latitude": "-8.1606562185",
+        "longitude": "111.6273203346"
+    },
+    {
+        "id": "3504",
+        "parent_code": "35",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tulungagung",
+        "latitude": "-8.1134710294",
+        "longitude": "111.8877227513"
+    },
+    {
+        "id": "3505",
+        "parent_code": "35",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Blitar",
+        "latitude": "-8.1310084426",
+        "longitude": "112.2372210964"
+    },
+    {
+        "id": "3506",
+        "parent_code": "35",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kediri",
+        "latitude": "-7.8286934037",
+        "longitude": "112.089220748"
+    },
+    {
+        "id": "3507",
+        "parent_code": "35",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Malang",
+        "latitude": "-8.1259169937",
+        "longitude": "112.6409121822"
+    },
+    {
+        "id": "3508",
+        "parent_code": "35",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lumajang",
+        "latitude": "-8.125443593",
+        "longitude": "113.1384962451"
+    },
+    {
+        "id": "3509",
+        "parent_code": "35",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Jember",
+        "latitude": "-8.2351363869",
+        "longitude": "113.6559519969"
+    },
+    {
+        "id": "3510",
+        "parent_code": "35",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Banyuwangi",
+        "latitude": "-8.3646600388",
+        "longitude": "114.2058972769"
+    },
+    {
+        "id": "3511",
+        "parent_code": "35",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bondowoso",
+        "latitude": "-7.9436858219",
+        "longitude": "113.9476982117"
+    },
+    {
+        "id": "3512",
+        "parent_code": "35",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Situbondo",
+        "latitude": "-7.8014385256",
+        "longitude": "114.051364041"
+    },
+    {
+        "id": "3513",
+        "parent_code": "35",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Probolinggo",
+        "latitude": "-7.8664111098",
+        "longitude": "113.3202340648"
+    },
+    {
+        "id": "3514",
+        "parent_code": "35",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pasuruan",
+        "latitude": "-7.7424309125",
+        "longitude": "112.8318441017"
+    },
+    {
+        "id": "3515",
+        "parent_code": "35",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sidoarjo",
+        "latitude": "-7.4514728339",
+        "longitude": "112.7003027908"
+    },
+    {
+        "id": "3516",
+        "parent_code": "35",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mojokerto",
+        "latitude": "-7.5506917535",
+        "longitude": "112.4844382563"
+    },
+    {
+        "id": "3517",
+        "parent_code": "35",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Jombang",
+        "latitude": "-7.5446348899",
+        "longitude": "112.2640849778"
+    },
+    {
+        "id": "3518",
+        "parent_code": "35",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nganjuk",
+        "latitude": "-7.5974955793",
+        "longitude": "111.9385462073"
+    },
+    {
+        "id": "3519",
+        "parent_code": "35",
+        "code": "19",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Madiun",
+        "latitude": "-7.6236158929",
+        "longitude": "111.6458587583"
+    },
+    {
+        "id": "3520",
+        "parent_code": "35",
+        "code": "20",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Magetan",
+        "latitude": "-7.6633800366",
+        "longitude": "111.3574342445"
+    },
+    {
+        "id": "3521",
+        "parent_code": "35",
+        "code": "21",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ngawi",
+        "latitude": "-7.4388244038",
+        "longitude": "111.343413833"
+    },
+    {
+        "id": "3522",
+        "parent_code": "35",
+        "code": "22",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bojonegoro",
+        "latitude": "-7.2555759042",
+        "longitude": "111.809869976"
+    },
+    {
+        "id": "3523",
+        "parent_code": "35",
+        "code": "23",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tuban",
+        "latitude": "-6.9534129687",
+        "longitude": "111.8922422121"
+    },
+    {
+        "id": "3524",
+        "parent_code": "35",
+        "code": "24",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lamongan",
+        "latitude": "-7.131410515",
+        "longitude": "112.3007459215"
+    },
+    {
+        "id": "3525",
+        "parent_code": "35",
+        "code": "25",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Gresik",
+        "latitude": "-6.9262565324",
+        "longitude": "112.5586460341"
+    },
+    {
+        "id": "3526",
+        "parent_code": "35",
+        "code": "26",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bangkalan",
+        "latitude": "-7.0443361592",
+        "longitude": "112.9295363838"
+    },
+    {
+        "id": "3527",
+        "parent_code": "35",
+        "code": "27",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sampang",
+        "latitude": "-7.0520244641",
+        "longitude": "113.2563430253"
+    },
+    {
+        "id": "3528",
+        "parent_code": "35",
+        "code": "28",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pamekasan",
+        "latitude": "-7.0652238932",
+        "longitude": "113.5040466553"
+    },
+    {
+        "id": "3529",
+        "parent_code": "35",
+        "code": "29",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sumenep",
+        "latitude": "-6.966307061",
+        "longitude": "114.4031336069"
+    },
+    {
+        "id": "3571",
+        "parent_code": "35",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Kediri",
+        "latitude": "-7.8263700901",
+        "longitude": "112.0161233993"
+    },
+    {
+        "id": "3572",
+        "parent_code": "35",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Blitar",
+        "latitude": "-8.0947667137",
+        "longitude": "112.1669712138"
+    },
+    {
+        "id": "3573",
+        "parent_code": "35",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Malang",
+        "latitude": "-7.9783002917",
+        "longitude": "112.6359068547"
+    },
+    {
+        "id": "3574",
+        "parent_code": "35",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Probolinggo",
+        "latitude": "-7.7738105287",
+        "longitude": "113.2054689416"
+    },
+    {
+        "id": "3575",
+        "parent_code": "35",
+        "code": "75",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pasuruan",
+        "latitude": "-7.6495724367",
+        "longitude": "112.9100046422"
+    },
+    {
+        "id": "3576",
+        "parent_code": "35",
+        "code": "76",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Mojokerto",
+        "latitude": "-7.4713892372",
+        "longitude": "112.4375079063"
+    },
+    {
+        "id": "3577",
+        "parent_code": "35",
+        "code": "77",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Madiun",
+        "latitude": "-7.6294540613",
+        "longitude": "111.5272672136"
+    },
+    {
+        "id": "3578",
+        "parent_code": "35",
+        "code": "78",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Surabaya",
+        "latitude": "-7.274322819",
+        "longitude": "112.7235841245"
+    },
+    {
+        "id": "3579",
+        "parent_code": "35",
+        "code": "79",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Batu",
+        "latitude": "-7.8346737976",
+        "longitude": "112.5337555741"
+    },
+    {
+        "id": "3601",
+        "parent_code": "36",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pandeglang",
+        "latitude": "-6.5902333469",
+        "longitude": "105.7429702529"
+    },
+    {
+        "id": "3602",
+        "parent_code": "36",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lebak",
+        "latitude": "-6.6420201629",
+        "longitude": "106.2124225039"
+    },
+    {
+        "id": "3603",
+        "parent_code": "36",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tangerang",
+        "latitude": "-6.1744645987",
+        "longitude": "106.5189288678"
+    },
+    {
+        "id": "3604",
+        "parent_code": "36",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Serang",
+        "latitude": "-6.1417383665",
+        "longitude": "106.1460761971"
+    },
+    {
+        "id": "3671",
+        "parent_code": "36",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tangerang",
+        "latitude": "-6.184371109",
+        "longitude": "106.6519939446"
+    },
+    {
+        "id": "3672",
+        "parent_code": "36",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Cilegon",
+        "latitude": "-5.9988968013",
+        "longitude": "106.0184899145"
+    },
+    {
+        "id": "3673",
+        "parent_code": "36",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Serang",
+        "latitude": "-6.1233235876",
+        "longitude": "106.1667505709"
+    },
+    {
+        "id": "3674",
+        "parent_code": "36",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tangerang Selatan",
+        "latitude": "-6.3021200759",
+        "longitude": "106.707384986"
+    },
+    {
+        "id": "5101",
+        "parent_code": "51",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Jembrana",
+        "latitude": "-8.313122688",
+        "longitude": "114.6828868122"
+    },
+    {
+        "id": "5102",
+        "parent_code": "51",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tabanan",
+        "latitude": "-8.4302310846",
+        "longitude": "115.0782742655"
+    },
+    {
+        "id": "5103",
+        "parent_code": "51",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Badung",
+        "latitude": "-8.5828467894",
+        "longitude": "115.1883802191"
+    },
+    {
+        "id": "5104",
+        "parent_code": "51",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Gianyar",
+        "latitude": "-8.4809732135",
+        "longitude": "115.2874850846"
+    },
+    {
+        "id": "5105",
+        "parent_code": "51",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Klungkung",
+        "latitude": "-8.6669502638",
+        "longitude": "115.4936580413"
+    },
+    {
+        "id": "5106",
+        "parent_code": "51",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bangli",
+        "latitude": "-8.2931236516",
+        "longitude": "115.3472926014"
+    },
+    {
+        "id": "5107",
+        "parent_code": "51",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Karangasem",
+        "latitude": "-8.3742661953",
+        "longitude": "115.5298919624"
+    },
+    {
+        "id": "5108",
+        "parent_code": "51",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Buleleng",
+        "latitude": "-8.2009532338",
+        "longitude": "114.9609088372"
+    },
+    {
+        "id": "5171",
+        "parent_code": "51",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Denpasar",
+        "latitude": "-8.6683560817",
+        "longitude": "115.2208162921"
+    },
+    {
+        "id": "5201",
+        "parent_code": "52",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lombok Barat",
+        "latitude": "-8.6654680429",
+        "longitude": "116.0934574457"
+    },
+    {
+        "id": "5202",
+        "parent_code": "52",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lombok Tengah",
+        "latitude": "-8.7221470115",
+        "longitude": "116.289838874"
+    },
+    {
+        "id": "5203",
+        "parent_code": "52",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lombok Timur",
+        "latitude": "-8.5323241194",
+        "longitude": "116.5308120839"
+    },
+    {
+        "id": "5204",
+        "parent_code": "52",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sumbawa",
+        "latitude": "-8.7032981226",
+        "longitude": "117.4842611108"
+    },
+    {
+        "id": "5205",
+        "parent_code": "52",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Dompu",
+        "latitude": "-8.472224493",
+        "longitude": "118.2168647329"
+    },
+    {
+        "id": "5206",
+        "parent_code": "52",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bima",
+        "latitude": "-8.4748062825",
+        "longitude": "118.6190179139"
+    },
+    {
+        "id": "5207",
+        "parent_code": "52",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sumbawa Barat",
+        "latitude": "-8.8299137946",
+        "longitude": "116.9143814235"
+    },
+    {
+        "id": "5208",
+        "parent_code": "52",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lombok Utara",
+        "latitude": "-8.3488937389",
+        "longitude": "116.2829208406"
+    },
+    {
+        "id": "5271",
+        "parent_code": "52",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Mataram",
+        "latitude": "-8.5901543822",
+        "longitude": "116.1109585905"
+    },
+    {
+        "id": "5272",
+        "parent_code": "52",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bima",
+        "latitude": "-8.4548698682",
+        "longitude": "118.7821297465"
+    },
+    {
+        "id": "5301",
+        "parent_code": "53",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kupang",
+        "latitude": "-9.9160862168",
+        "longitude": "123.8614504442"
+    },
+    {
+        "id": "5302",
+        "parent_code": "53",
+        "code": "02",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kab Timor Tengah Selatan",
+        "latitude": "-9.8286979247",
+        "longitude": "124.3980858637"
+    },
+    {
+        "id": "5303",
+        "parent_code": "53",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Timor Tengah Utara",
+        "latitude": "-9.3776990064",
+        "longitude": "124.5698269092"
+    },
+    {
+        "id": "5304",
+        "parent_code": "53",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Belu",
+        "latitude": "-9.1543276054",
+        "longitude": "124.9680761066"
+    },
+    {
+        "id": "5305",
+        "parent_code": "53",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Alor",
+        "latitude": "-8.3039150147",
+        "longitude": "124.5684481477"
+    },
+    {
+        "id": "5306",
+        "parent_code": "53",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Flores Timur",
+        "latitude": "-8.3651299994",
+        "longitude": "122.9444830161"
+    },
+    {
+        "id": "5307",
+        "parent_code": "53",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sikka",
+        "latitude": "-8.6093442067",
+        "longitude": "122.3066535019"
+    },
+    {
+        "id": "5308",
+        "parent_code": "53",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ende",
+        "latitude": "-8.6763536346",
+        "longitude": "121.7354249525"
+    },
+    {
+        "id": "5309",
+        "parent_code": "53",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ngada",
+        "latitude": "-8.6645440073",
+        "longitude": "121.0015682886"
+    },
+    {
+        "id": "5310",
+        "parent_code": "53",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Manggarai",
+        "latitude": "-8.5688094624",
+        "longitude": "120.4010692154"
+    },
+    {
+        "id": "5311",
+        "parent_code": "53",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sumba Timur",
+        "latitude": "-9.8778042078",
+        "longitude": "120.2547683848"
+    },
+    {
+        "id": "5312",
+        "parent_code": "53",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sumba Barat",
+        "latitude": "-9.6414295314",
+        "longitude": "119.3833869468"
+    },
+    {
+        "id": "5313",
+        "parent_code": "53",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lembata",
+        "latitude": "-8.3811716138",
+        "longitude": "123.5408178635"
+    },
+    {
+        "id": "5314",
+        "parent_code": "53",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Rote Ndao",
+        "latitude": "-10.7259599951",
+        "longitude": "123.124448368"
+    },
+    {
+        "id": "5315",
+        "parent_code": "53",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Manggarai Barat",
+        "latitude": "-8.6027167319",
+        "longitude": "119.9885452587"
+    },
+    {
+        "id": "5316",
+        "parent_code": "53",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nagekeo",
+        "latitude": "-8.6897461475",
+        "longitude": "121.2731856764"
+    },
+    {
+        "id": "5317",
+        "parent_code": "53",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sumba Tengah",
+        "latitude": "-9.5431605108",
+        "longitude": "119.668651972"
+    },
+    {
+        "id": "5318",
+        "parent_code": "53",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sumba Barat Daya",
+        "latitude": "-9.5341470652",
+        "longitude": "119.177342962"
+    },
+    {
+        "id": "5319",
+        "parent_code": "53",
+        "code": "19",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Manggarai Timur",
+        "latitude": "-8.5727888765",
+        "longitude": "120.6893068881"
+    },
+    {
+        "id": "5320",
+        "parent_code": "53",
+        "code": "20",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sabu Raijua",
+        "latitude": "-10.535687374",
+        "longitude": "121.844468257"
+    },
+    {
+        "id": "5321",
+        "parent_code": "53",
+        "code": "21",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Malaka",
+        "latitude": "-9.5231935338",
+        "longitude": "124.8897085481"
+    },
+    {
+        "id": "5371",
+        "parent_code": "53",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Kupang",
+        "latitude": "-10.204506384",
+        "longitude": "123.6045440277"
+    },
+    {
+        "id": "6101",
+        "parent_code": "61",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sambas",
+        "latitude": "1.4230857823",
+        "longitude": "109.3495682201"
+    },
+    {
+        "id": "6102",
+        "parent_code": "61",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mempawah",
+        "latitude": "0.3517771175",
+        "longitude": "109.1541910276"
+    },
+    {
+        "id": "6103",
+        "parent_code": "61",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sanggau",
+        "latitude": "0.2686810965",
+        "longitude": "110.4307266029"
+    },
+    {
+        "id": "6104",
+        "parent_code": "61",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Ketapang",
+        "latitude": "-1.6329362773",
+        "longitude": "110.6054369303"
+    },
+    {
+        "id": "6105",
+        "parent_code": "61",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sintang",
+        "latitude": "0.0918238297",
+        "longitude": "112.0518460558"
+    },
+    {
+        "id": "6106",
+        "parent_code": "61",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kapuas Hulu",
+        "latitude": "0.8256013629",
+        "longitude": "112.8035503846"
+    },
+    {
+        "id": "6107",
+        "parent_code": "61",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bengkayang",
+        "latitude": "1.0119529327",
+        "longitude": "109.5783998671"
+    },
+    {
+        "id": "6108",
+        "parent_code": "61",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Landak",
+        "latitude": "0.5076819153",
+        "longitude": "109.7640773303"
+    },
+    {
+        "id": "6109",
+        "parent_code": "61",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sekadau",
+        "latitude": "-0.0153593211",
+        "longitude": "110.9475750765"
+    },
+    {
+        "id": "6110",
+        "parent_code": "61",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Melawi",
+        "latitude": "-0.6304366772",
+        "longitude": "111.724597058"
+    },
+    {
+        "id": "6111",
+        "parent_code": "61",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kayong Utara",
+        "latitude": "-1.1044317345",
+        "longitude": "109.8753601892"
+    },
+    {
+        "id": "6112",
+        "parent_code": "61",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kubu Raya",
+        "latitude": "-0.3918268195",
+        "longitude": "109.5403743951"
+    },
+    {
+        "id": "6171",
+        "parent_code": "61",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pontianak",
+        "latitude": "-0.0257806384",
+        "longitude": "109.331697469"
+    },
+    {
+        "id": "6172",
+        "parent_code": "61",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Singkawang",
+        "latitude": "0.8866504291",
+        "longitude": "109.0322774345"
+    },
+    {
+        "id": "6201",
+        "parent_code": "62",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kotawaringin Barat",
+        "latitude": "-2.5721683945",
+        "longitude": "111.7741656313"
+    },
+    {
+        "id": "6202",
+        "parent_code": "62",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kotawaringin Timur",
+        "latitude": "-2.0858136188",
+        "longitude": "112.7151883145"
+    },
+    {
+        "id": "6203",
+        "parent_code": "62",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kapuas",
+        "latitude": "-1.7628706594",
+        "longitude": "114.30260673"
+    },
+    {
+        "id": "6204",
+        "parent_code": "62",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Barito Selatan",
+        "latitude": "-1.7747496573",
+        "longitude": "114.9099589628"
+    },
+    {
+        "id": "6205",
+        "parent_code": "62",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Barito Utara",
+        "latitude": "-0.9283801974",
+        "longitude": "115.1376209523"
+    },
+    {
+        "id": "6206",
+        "parent_code": "62",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Katingan",
+        "latitude": "-1.6858743277",
+        "longitude": "113.0708291507"
+    },
+    {
+        "id": "6207",
+        "parent_code": "62",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Seruyan",
+        "latitude": "-2.2572382242",
+        "longitude": "112.1986500289"
+    },
+    {
+        "id": "6208",
+        "parent_code": "62",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sukamara",
+        "latitude": "-2.6043487298",
+        "longitude": "111.1595738937"
+    },
+    {
+        "id": "6209",
+        "parent_code": "62",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lamandau",
+        "latitude": "-1.771384657",
+        "longitude": "111.4178481188"
+    },
+    {
+        "id": "6210",
+        "parent_code": "62",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Gunung Mas",
+        "latitude": "-1.0251023761",
+        "longitude": "113.5587731736"
+    },
+    {
+        "id": "6211",
+        "parent_code": "62",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pulang Pisau",
+        "latitude": "-2.6908594382",
+        "longitude": "113.9675757401"
+    },
+    {
+        "id": "6212",
+        "parent_code": "62",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Murung Raya",
+        "latitude": "-0.0317867951",
+        "longitude": "114.2623283727"
+    },
+    {
+        "id": "6213",
+        "parent_code": "62",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Barito Timur",
+        "latitude": "-1.9772409441",
+        "longitude": "115.1413620312"
+    },
+    {
+        "id": "6271",
+        "parent_code": "62",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Palangkaraya",
+        "latitude": "-2.0074642796",
+        "longitude": "113.7674742627"
+    },
+    {
+        "id": "6301",
+        "parent_code": "63",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tanah Laut",
+        "latitude": "-3.8192252913",
+        "longitude": "114.90532555"
+    },
+    {
+        "id": "6302",
+        "parent_code": "63",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kotabaru",
+        "latitude": "-2.9847146873",
+        "longitude": "116.0631772261"
+    },
+    {
+        "id": "6303",
+        "parent_code": "63",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Banjar",
+        "latitude": "-3.3204891608",
+        "longitude": "115.0799111067"
+    },
+    {
+        "id": "6304",
+        "parent_code": "63",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Barito Kuala",
+        "latitude": "-3.0905851551",
+        "longitude": "114.6300476693"
+    },
+    {
+        "id": "6305",
+        "parent_code": "63",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tapin",
+        "latitude": "-2.9216204999",
+        "longitude": "115.0451293491"
+    },
+    {
+        "id": "6306",
+        "parent_code": "63",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Hulu Sungai Selatan",
+        "latitude": "-2.7292167628",
+        "longitude": "115.2055073919"
+    },
+    {
+        "id": "6307",
+        "parent_code": "63",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Hulu Sungai Tengah",
+        "latitude": "-2.609369917",
+        "longitude": "115.4786577082"
+    },
+    {
+        "id": "6308",
+        "parent_code": "63",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Hulu Sungai Utara",
+        "latitude": "-2.4392620353",
+        "longitude": "115.1512708915"
+    },
+    {
+        "id": "6309",
+        "parent_code": "63",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tabalong",
+        "latitude": "-1.861946251",
+        "longitude": "115.5000646486"
+    },
+    {
+        "id": "6310",
+        "parent_code": "63",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tanah Bumbu",
+        "latitude": "-3.4397127509",
+        "longitude": "115.6471399578"
+    },
+    {
+        "id": "6311",
+        "parent_code": "63",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Balangan",
+        "latitude": "-2.3178342919",
+        "longitude": "115.6227731847"
+    },
+    {
+        "id": "6371",
+        "parent_code": "63",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Banjarmasin",
+        "latitude": "-3.3291214795",
+        "longitude": "114.591798685"
+    },
+    {
+        "id": "6372",
+        "parent_code": "63",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Banjarbaru",
+        "latitude": "-3.4747673378",
+        "longitude": "114.7911754811"
+    },
+    {
+        "id": "6401",
+        "parent_code": "64",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Paser",
+        "latitude": "-1.7364960079",
+        "longitude": "116.0929568991"
+    },
+    {
+        "id": "6402",
+        "parent_code": "64",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kutai Kartanegara",
+        "latitude": "0.107962638",
+        "longitude": "116.4801166986"
+    },
+    {
+        "id": "6403",
+        "parent_code": "64",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Berau",
+        "latitude": "1.9140511406",
+        "longitude": "117.3374270435"
+    },
+    {
+        "id": "6407",
+        "parent_code": "64",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kutai Barat",
+        "latitude": "-0.5026699966",
+        "longitude": "115.8242164657"
+    },
+    {
+        "id": "6408",
+        "parent_code": "64",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kutai Timur",
+        "latitude": "0.9902362672",
+        "longitude": "117.1312998914"
+    },
+    {
+        "id": "6409",
+        "parent_code": "64",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Penajam Paser Utara",
+        "latitude": "-1.1555759239",
+        "longitude": "116.5915175264"
+    },
+    {
+        "id": "6411",
+        "parent_code": "64",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mahakam Ulu",
+        "latitude": "0.7318065487",
+        "longitude": "114.836126376"
+    },
+    {
+        "id": "6471",
+        "parent_code": "64",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Balikpapan",
+        "latitude": "-1.156665799",
+        "longitude": "116.8722905089"
+    },
+    {
+        "id": "6472",
+        "parent_code": "64",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Samarinda",
+        "latitude": "-0.5002797264",
+        "longitude": "117.1770634541"
+    },
+    {
+        "id": "6474",
+        "parent_code": "64",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bontang",
+        "latitude": "0.0933081687",
+        "longitude": "117.4580928523"
+    },
+    {
+        "id": "6501",
+        "parent_code": "65",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bulungan",
+        "latitude": "2.7974820809",
+        "longitude": "117.0319842056"
+    },
+    {
+        "id": "6502",
+        "parent_code": "65",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Malinau",
+        "latitude": "2.5129735296",
+        "longitude": "115.7354414551"
+    },
+    {
+        "id": "6503",
+        "parent_code": "65",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nunukan",
+        "latitude": "4.0091779241",
+        "longitude": "116.6428577628"
+    },
+    {
+        "id": "6504",
+        "parent_code": "65",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tana Tidung",
+        "latitude": "3.5704781392",
+        "longitude": "117.1577300764"
+    },
+    {
+        "id": "6571",
+        "parent_code": "65",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tarakan",
+        "latitude": "3.3594054661",
+        "longitude": "117.5995114562"
+    },
+    {
+        "id": "7101",
+        "parent_code": "71",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bolaang Mongondow",
+        "latitude": "0.7075405205",
+        "longitude": "124.0385569961"
+    },
+    {
+        "id": "7102",
+        "parent_code": "71",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Minahasa",
+        "latitude": "1.2500305141",
+        "longitude": "124.8581126376"
+    },
+    {
+        "id": "7103",
+        "parent_code": "71",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Sangihe",
+        "latitude": "3.5526798786",
+        "longitude": "125.5409814461"
+    },
+    {
+        "id": "7104",
+        "parent_code": "71",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Talaud",
+        "latitude": "4.2257232421",
+        "longitude": "126.7810758664"
+    },
+    {
+        "id": "7105",
+        "parent_code": "71",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Minahasa Selatan",
+        "latitude": "1.0849712838",
+        "longitude": "124.5189002918"
+    },
+    {
+        "id": "7106",
+        "parent_code": "71",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Minahasa Utara",
+        "latitude": "1.5480917895",
+        "longitude": "125.0052933992"
+    },
+    {
+        "id": "7107",
+        "parent_code": "71",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Minahasa Tenggara",
+        "latitude": "1.0121994192",
+        "longitude": "124.7166525372"
+    },
+    {
+        "id": "7108",
+        "parent_code": "71",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bolaang Mongondow Utara",
+        "latitude": "0.7676395914",
+        "longitude": "123.4764683363"
+    },
+    {
+        "id": "7109",
+        "parent_code": "71",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kep. Siau Tagulandang Biaro",
+        "latitude": "2.5391175631",
+        "longitude": "125.3969356819"
+    },
+    {
+        "id": "7110",
+        "parent_code": "71",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bolaang Mongondow Timur",
+        "latitude": "0.7160219174",
+        "longitude": "124.5098867138"
+    },
+    {
+        "id": "7111",
+        "parent_code": "71",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bolaang Mongondow Selatan",
+        "latitude": "0.443107232",
+        "longitude": "123.9282628245"
+    },
+    {
+        "id": "7171",
+        "parent_code": "71",
+        "code": "",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Manado",
+        "latitude": "1.5249208885",
+        "longitude": "124.8479000954"
+    },
+    {
+        "id": "7172",
+        "parent_code": "71",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bitung",
+        "latitude": "1.4898138981",
+        "longitude": "125.1579744305"
+    },
+    {
+        "id": "7173",
+        "parent_code": "71",
+        "code": "73",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tomohon",
+        "latitude": "1.3305321031",
+        "longitude": "124.8150466078"
+    },
+    {
+        "id": "7174",
+        "parent_code": "71",
+        "code": "74",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Kotamobagu",
+        "latitude": "0.7110773575",
+        "longitude": "124.31830776"
+    },
+    {
+        "id": "7201",
+        "parent_code": "72",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Banggai",
+        "latitude": "-1.0184811008",
+        "longitude": "122.5883093238"
+    },
+    {
+        "id": "7202",
+        "parent_code": "72",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Poso",
+        "latitude": "-1.6783760896",
+        "longitude": "120.5337224724"
+    },
+    {
+        "id": "7203",
+        "parent_code": "72",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Donggala",
+        "latitude": "-0.4360294196",
+        "longitude": "119.8306533066"
+    },
+    {
+        "id": "7204",
+        "parent_code": "72",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Toli Toli",
+        "latitude": "0.9273278508",
+        "longitude": "120.7300037466"
+    },
+    {
+        "id": "7205",
+        "parent_code": "72",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Buol",
+        "latitude": "0.9788792733",
+        "longitude": "121.3884504579"
+    },
+    {
+        "id": "7206",
+        "parent_code": "72",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Morowali",
+        "latitude": "-2.7159395239",
+        "longitude": "121.9236690243"
+    },
+    {
+        "id": "7207",
+        "parent_code": "72",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Banggai Kepulauan",
+        "latitude": "-1.3717992854",
+        "longitude": "123.1432924076"
+    },
+    {
+        "id": "7208",
+        "parent_code": "72",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Parigi Moutong",
+        "latitude": "0.0169256348",
+        "longitude": "120.4490576344"
+    },
+    {
+        "id": "7209",
+        "parent_code": "72",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tojo Una Una",
+        "latitude": "-1.1241027094",
+        "longitude": "121.5724586832"
+    },
+    {
+        "id": "7210",
+        "parent_code": "72",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sigi",
+        "latitude": "-1.4087312705",
+        "longitude": "119.9742266749"
+    },
+    {
+        "id": "7211",
+        "parent_code": "72",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Banggai Laut",
+        "latitude": "-1.780115739",
+        "longitude": "123.5294656942"
+    },
+    {
+        "id": "7212",
+        "parent_code": "72",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Morowali Utara",
+        "latitude": "-1.8270220587",
+        "longitude": "121.3960585346"
+    },
+    {
+        "id": "7271",
+        "parent_code": "72",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Palu",
+        "latitude": "-0.8369318137",
+        "longitude": "119.9119658431"
+    },
+    {
+        "id": "7301",
+        "parent_code": "73",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Selayar",
+        "latitude": "-6.5578940601",
+        "longitude": "120.7178797906"
+    },
+    {
+        "id": "7302",
+        "parent_code": "73",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bulukumba",
+        "latitude": "-5.4314504033",
+        "longitude": "120.2343262029"
+    },
+    {
+        "id": "7303",
+        "parent_code": "73",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bantaeng",
+        "latitude": "-5.490180588",
+        "longitude": "119.9873643963"
+    },
+    {
+        "id": "7304",
+        "parent_code": "73",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Jeneponto",
+        "latitude": "-5.5670271499",
+        "longitude": "119.6988799493"
+    },
+    {
+        "id": "7305",
+        "parent_code": "73",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Takalar",
+        "latitude": "-5.4184545189",
+        "longitude": "119.4741466001"
+    },
+    {
+        "id": "7306",
+        "parent_code": "73",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Gowa",
+        "latitude": "-5.3089044546",
+        "longitude": "119.7187202268"
+    },
+    {
+        "id": "7307",
+        "parent_code": "73",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sinjai",
+        "latitude": "-5.2092842525",
+        "longitude": "120.1354148186"
+    },
+    {
+        "id": "7308",
+        "parent_code": "73",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bone",
+        "latitude": "-4.6949879345",
+        "longitude": "120.1300521393"
+    },
+    {
+        "id": "7309",
+        "parent_code": "73",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Maros",
+        "latitude": "-4.9996246997",
+        "longitude": "119.7262867031"
+    },
+    {
+        "id": "7310",
+        "parent_code": "73",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pangkajene Kepulauan",
+        "latitude": "-4.9385445688",
+        "longitude": "119.4795897431"
+    },
+    {
+        "id": "7311",
+        "parent_code": "73",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Barru",
+        "latitude": "-4.4399957473",
+        "longitude": "119.6948466846"
+    },
+    {
+        "id": "7312",
+        "parent_code": "73",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Soppeng",
+        "latitude": "-4.3370424125",
+        "longitude": "119.8933787361"
+    },
+    {
+        "id": "7313",
+        "parent_code": "73",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Wajo",
+        "latitude": "-3.9924699998",
+        "longitude": "120.1725505512"
+    },
+    {
+        "id": "7314",
+        "parent_code": "73",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sidenreng Rappang",
+        "latitude": "-3.8128342025",
+        "longitude": "119.9596531233"
+    },
+    {
+        "id": "7315",
+        "parent_code": "73",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pinrang",
+        "latitude": "-3.6282475323",
+        "longitude": "119.6026711036"
+    },
+    {
+        "id": "7316",
+        "parent_code": "73",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Enrekang",
+        "latitude": "-3.5038556374",
+        "longitude": "119.8745740594"
+    },
+    {
+        "id": "7317",
+        "parent_code": "73",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Luwu",
+        "latitude": "-3.1992107616",
+        "longitude": "120.1831190891"
+    },
+    {
+        "id": "7318",
+        "parent_code": "73",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tana Toraja",
+        "latitude": "-3.1156062208",
+        "longitude": "119.7116299356"
+    },
+    {
+        "id": "7322",
+        "parent_code": "73",
+        "code": "22",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Luwu Utara",
+        "latitude": "-2.3959351841",
+        "longitude": "120.1644341795"
+    },
+    {
+        "id": "7324",
+        "parent_code": "73",
+        "code": "24",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Luwu Timur",
+        "latitude": "-2.5560593453",
+        "longitude": "121.1283244337"
+    },
+    {
+        "id": "7326",
+        "parent_code": "73",
+        "code": "26",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Toraja Utara",
+        "latitude": "-2.8796217485",
+        "longitude": "119.8642601246"
+    },
+    {
+        "id": "7371",
+        "parent_code": "73",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Makassar",
+        "latitude": "-5.1356102388",
+        "longitude": "119.4638998193"
+    },
+    {
+        "id": "7372",
+        "parent_code": "73",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Pare Pare",
+        "latitude": "-4.0316426493",
+        "longitude": "119.6635553531"
+    },
+    {
+        "id": "7373",
+        "parent_code": "73",
+        "code": "",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Palopo",
+        "latitude": "-2.9797069485",
+        "longitude": "120.1477663359"
+    },
+    {
+        "id": "7401",
+        "parent_code": "74",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kolaka",
+        "latitude": "-4.0745092718",
+        "longitude": "121.5219909611"
+    },
+    {
+        "id": "7402",
+        "parent_code": "74",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Konawe",
+        "latitude": "-3.5304442135",
+        "longitude": "121.8623910627"
+    },
+    {
+        "id": "7403",
+        "parent_code": "74",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Muna",
+        "latitude": "-4.9446457487",
+        "longitude": "122.6296332654"
+    },
+    {
+        "id": "7404",
+        "parent_code": "74",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Buton",
+        "latitude": "-5.40887604",
+        "longitude": "123.020037032"
+    },
+    {
+        "id": "7405",
+        "parent_code": "74",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Konawe Selatan",
+        "latitude": "-4.2627277847",
+        "longitude": "122.4233097547"
+    },
+    {
+        "id": "7406",
+        "parent_code": "74",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bombana",
+        "latitude": "-4.8008735977",
+        "longitude": "121.8523983065"
+    },
+    {
+        "id": "7407",
+        "parent_code": "74",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Wakatobi",
+        "latitude": "-5.5718786399",
+        "longitude": "123.7858629544"
+    },
+    {
+        "id": "7408",
+        "parent_code": "74",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kolaka Utara",
+        "latitude": "-3.2627691501",
+        "longitude": "121.1340685229"
+    },
+    {
+        "id": "7409",
+        "parent_code": "74",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Konawe Utara",
+        "latitude": "-3.3906967981",
+        "longitude": "122.0304549989"
+    },
+    {
+        "id": "7410",
+        "parent_code": "74",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Buton Utara",
+        "latitude": "-4.7875259293",
+        "longitude": "123.1657248822"
+    },
+    {
+        "id": "7411",
+        "parent_code": "74",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kolaka Timur",
+        "latitude": "-3.7954606806",
+        "longitude": "121.6085919373"
+    },
+    {
+        "id": "7412",
+        "parent_code": "74",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Konawe Kepulauan",
+        "latitude": "-4.1145840259",
+        "longitude": "123.0962508903"
+    },
+    {
+        "id": "7413",
+        "parent_code": "74",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Muna Barat",
+        "latitude": "-4.8168779374",
+        "longitude": "122.4926544739"
+    },
+    {
+        "id": "7414",
+        "parent_code": "74",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Buton Tengah",
+        "latitude": "-5.3170043505",
+        "longitude": "122.3986685977"
+    },
+    {
+        "id": "7415",
+        "parent_code": "74",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Buton Selatan",
+        "latitude": "-5.6047071178",
+        "longitude": "122.6715596384"
+    },
+    {
+        "id": "7471",
+        "parent_code": "74",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Kendari",
+        "latitude": "-3.9975798425",
+        "longitude": "122.5326148906"
+    },
+    {
+        "id": "7472",
+        "parent_code": "74",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Bau Bau",
+        "latitude": "-5.4287671799",
+        "longitude": "122.6757946847"
+    },
+    {
+        "id": "7501",
+        "parent_code": "75",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Gorontalo",
+        "latitude": "0.6928993447",
+        "longitude": "122.7125178412"
+    },
+    {
+        "id": "7502",
+        "parent_code": "75",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Boalemo",
+        "latitude": "0.6529068389",
+        "longitude": "122.3270852426"
+    },
+    {
+        "id": "7503",
+        "parent_code": "75",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Bone Bolango",
+        "latitude": "0.5323677826",
+        "longitude": "123.2923131194"
+    },
+    {
+        "id": "7504",
+        "parent_code": "75",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pahuwato",
+        "latitude": "0.6882847705",
+        "longitude": "121.7097822176"
+    },
+    {
+        "id": "7505",
+        "parent_code": "75",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Gorontalo Utara",
+        "latitude": "0.8855698802",
+        "longitude": "122.6645345742"
+    },
+    {
+        "id": "7571",
+        "parent_code": "75",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Gorontalo",
+        "latitude": "0.538408541",
+        "longitude": "123.0553011329"
+    },
+    {
+        "id": "7601",
+        "parent_code": "76",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mamuju Utara",
+        "latitude": "-1.4896573789",
+        "longitude": "119.5076335134"
+    },
+    {
+        "id": "7602",
+        "parent_code": "76",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mamuju",
+        "latitude": "-2.5196977907",
+        "longitude": "119.3445759699"
+    },
+    {
+        "id": "7603",
+        "parent_code": "76",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mamasa",
+        "latitude": "-2.9457397997",
+        "longitude": "119.3143934761"
+    },
+    {
+        "id": "7604",
+        "parent_code": "76",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Polewali Mandar",
+        "latitude": "-3.3101502738",
+        "longitude": "119.1473265555"
+    },
+    {
+        "id": "7605",
+        "parent_code": "76",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Majene",
+        "latitude": "-3.1731639601",
+        "longitude": "118.918466986"
+    },
+    {
+        "id": "7606",
+        "parent_code": "76",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mamuju Tengah",
+        "latitude": "-2.0026542497",
+        "longitude": "119.5110891019"
+    },
+    {
+        "id": "8101",
+        "parent_code": "81",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Maluku Tengah",
+        "latitude": "-3.1811821252",
+        "longitude": "129.2954511863"
+    },
+    {
+        "id": "8102",
+        "parent_code": "81",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Maluku Tenggara",
+        "latitude": "-5.6769130131",
+        "longitude": "132.8881052548"
+    },
+    {
+        "id": "8103",
+        "parent_code": "81",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Maluku Tenggara Barat",
+        "latitude": "-7.5842912378",
+        "longitude": "131.3666387715"
+    },
+    {
+        "id": "8104",
+        "parent_code": "81",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Buru",
+        "latitude": "-3.3293586919",
+        "longitude": "126.726998248"
+    },
+    {
+        "id": "8105",
+        "parent_code": "81",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Seram Bagian Timur",
+        "latitude": "-3.4198608431",
+        "longitude": "130.4426420297"
+    },
+    {
+        "id": "8106",
+        "parent_code": "81",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Seram Bagian Barat",
+        "latitude": "-3.1396253097",
+        "longitude": "128.3546419813"
+    },
+    {
+        "id": "8107",
+        "parent_code": "81",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Aru",
+        "latitude": "-6.1962142477",
+        "longitude": "134.4509847712"
+    },
+    {
+        "id": "8108",
+        "parent_code": "81",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Maluku Barat Daya",
+        "latitude": "-7.8331084645",
+        "longitude": "127.3041101649"
+    },
+    {
+        "id": "8109",
+        "parent_code": "81",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Buru Selatan",
+        "latitude": "-3.5676217863",
+        "longitude": "126.5242538226"
+    },
+    {
+        "id": "8171",
+        "parent_code": "81",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Ambon",
+        "latitude": "-3.6853571326",
+        "longitude": "128.1949755829"
+    },
+    {
+        "id": "8172",
+        "parent_code": "81",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tual",
+        "latitude": "-5.5568845675",
+        "longitude": "132.4825887849"
+    },
+    {
+        "id": "8201",
+        "parent_code": "82",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Halmahera Barat",
+        "latitude": "1.3517194119",
+        "longitude": "127.5907994974"
+    },
+    {
+        "id": "8202",
+        "parent_code": "82",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Halmahera Tengah",
+        "latitude": "0.4018697384",
+        "longitude": "128.2953073877"
+    },
+    {
+        "id": "8203",
+        "parent_code": "82",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Halmahera Utara",
+        "latitude": "1.5543759874",
+        "longitude": "127.8347971973"
+    },
+    {
+        "id": "8204",
+        "parent_code": "82",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Halmahera Selatan",
+        "latitude": "-0.8270584672",
+        "longitude": "127.7051783521"
+    },
+    {
+        "id": "8205",
+        "parent_code": "82",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Sula",
+        "latitude": "-1.9637969894",
+        "longitude": "125.839687016"
+    },
+    {
+        "id": "8206",
+        "parent_code": "82",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Halmahera Timur",
+        "latitude": "1.0294776098",
+        "longitude": "128.3086353387"
+    },
+    {
+        "id": "8207",
+        "parent_code": "82",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pulau Morotai",
+        "latitude": "2.3164493349",
+        "longitude": "128.448378059"
+    },
+    {
+        "id": "8208",
+        "parent_code": "82",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pulau Taliabu",
+        "latitude": "-1.8194274606",
+        "longitude": "124.7393975751"
+    },
+    {
+        "id": "8271",
+        "parent_code": "82",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Ternate",
+        "latitude": "0.8384805548",
+        "longitude": "127.1725268595"
+    },
+    {
+        "id": "8272",
+        "parent_code": "82",
+        "code": "72",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Tidore Kepulauan",
+        "latitude": "0.4792760439",
+        "longitude": "127.6750111033"
+    },
+    {
+        "id": "9101",
+        "parent_code": "91",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Merauke",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9102",
+        "parent_code": "91",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Jayawijaya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9103",
+        "parent_code": "91",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Jayapura",
+        "latitude": "-3.0098933742",
+        "longitude": "139.9896339383"
+    },
+    {
+        "id": "9104",
+        "parent_code": "91",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nabire",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9105",
+        "parent_code": "91",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kepulauan Yapen",
+        "latitude": "-1.7454798571",
+        "longitude": "136.1741437682"
+    },
+    {
+        "id": "9106",
+        "parent_code": "91",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Biak Numfor",
+        "latitude": "-1.0028027823",
+        "longitude": "135.8443573755"
+    },
+    {
+        "id": "9107",
+        "parent_code": "91",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Puncak Jaya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9108",
+        "parent_code": "91",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Paniai",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9109",
+        "parent_code": "91",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mimika",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9110",
+        "parent_code": "91",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sarmi",
+        "latitude": "-2.4518394629",
+        "longitude": "139.0129513839"
+    },
+    {
+        "id": "9111",
+        "parent_code": "91",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Keerom",
+        "latitude": "-3.3843821842",
+        "longitude": "140.6882360556"
+    },
+    {
+        "id": "9112",
+        "parent_code": "91",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pegunungan Bintang",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9113",
+        "parent_code": "91",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Yahukimo",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9114",
+        "parent_code": "91",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tolikara",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9115",
+        "parent_code": "91",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Waropen",
+        "latitude": "-2.7467111638",
+        "longitude": "136.7496071458"
+    },
+    {
+        "id": "9116",
+        "parent_code": "91",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Boven Digoel",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9117",
+        "parent_code": "91",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mappi",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9118",
+        "parent_code": "91",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Asmat",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9119",
+        "parent_code": "91",
+        "code": "19",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Supiori",
+        "latitude": "-0.7365882351",
+        "longitude": "135.56415994"
+    },
+    {
+        "id": "9120",
+        "parent_code": "91",
+        "code": "20",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mamberamo Raya",
+        "latitude": "-2.4639772848",
+        "longitude": "137.9827972673"
+    },
+    {
+        "id": "9121",
+        "parent_code": "91",
+        "code": "21",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Mamberamo Tengah",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9122",
+        "parent_code": "91",
+        "code": "22",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Yalimo",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9123",
+        "parent_code": "91",
+        "code": "23",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Lanny Jaya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9124",
+        "parent_code": "91",
+        "code": "24",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Nduga",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9125",
+        "parent_code": "91",
+        "code": "25",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Puncak",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9126",
+        "parent_code": "91",
+        "code": "26",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Dogiyai",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9127",
+        "parent_code": "91",
+        "code": "27",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Intan Jaya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9128",
+        "parent_code": "91",
+        "code": "28",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Deiyai",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9171",
+        "parent_code": "91",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Jayapura",
+        "latitude": "-2.6645260079",
+        "longitude": "140.8001363652"
+    },
+    {
+        "id": "9201",
+        "parent_code": "92",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sorong",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9202",
+        "parent_code": "92",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Manokwari",
+        "latitude": "-0.935723936",
+        "longitude": "133.8004099794"
+    },
+    {
+        "id": "9203",
+        "parent_code": "92",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Fak Fak",
+        "latitude": "-3.1116570239",
+        "longitude": "132.8426965928"
+    },
+    {
+        "id": "9204",
+        "parent_code": "92",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Sorong Selatan",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9205",
+        "parent_code": "92",
+        "code": "05",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Raja Ampat",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9206",
+        "parent_code": "92",
+        "code": "06",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Teluk Bintuni",
+        "latitude": "-2.1542041065",
+        "longitude": "133.4537944224"
+    },
+    {
+        "id": "9207",
+        "parent_code": "92",
+        "code": "07",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Teluk Wondama",
+        "latitude": "-2.8498602258",
+        "longitude": "134.4041256796"
+    },
+    {
+        "id": "9208",
+        "parent_code": "92",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Kaimana",
+        "latitude": "-3.5969261865",
+        "longitude": "134.1040541033"
+    },
+    {
+        "id": "9209",
+        "parent_code": "92",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Tambrauw",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9210",
+        "parent_code": "92",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Maybrat",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9211",
+        "parent_code": "92",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Manokwari Selatan",
+        "latitude": "-1.5475999049",
+        "longitude": "134.0185532136"
+    },
+    {
+        "id": "9212",
+        "parent_code": "92",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kab. Pegunungan Arfak",
+        "latitude": "-1.2865785043",
+        "longitude": "133.700169411"
+    },
+    {
+        "id": "9271",
+        "parent_code": "92",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Sorong",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9401",
+        "parent_code": "94",
+        "code": "01",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Merauke",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9402",
+        "parent_code": "94",
+        "code": "02",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Jayawijaya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9403",
+        "parent_code": "94",
+        "code": "03",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Jayapura",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9404",
+        "parent_code": "94",
+        "code": "04",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Nabire",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9408",
+        "parent_code": "94",
+        "code": "08",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Kepulauan Yapen",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9409",
+        "parent_code": "94",
+        "code": "09",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Biak Numfor",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9410",
+        "parent_code": "94",
+        "code": "10",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Paniai",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9411",
+        "parent_code": "94",
+        "code": "11",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Puncak Jaya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9412",
+        "parent_code": "94",
+        "code": "12",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Mimika",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9413",
+        "parent_code": "94",
+        "code": "13",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Boven Digoel",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9414",
+        "parent_code": "94",
+        "code": "14",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Mappi",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9415",
+        "parent_code": "94",
+        "code": "15",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Asmat",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9416",
+        "parent_code": "94",
+        "code": "16",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Yahukimo",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9417",
+        "parent_code": "94",
+        "code": "17",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Pegunungan Bintang",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9418",
+        "parent_code": "94",
+        "code": "18",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Tolikara",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9419",
+        "parent_code": "94",
+        "code": "19",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Sarmi",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9420",
+        "parent_code": "94",
+        "code": "20",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Keerom",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9426",
+        "parent_code": "94",
+        "code": "26",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Waropen",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9427",
+        "parent_code": "94",
+        "code": "27",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Supiori",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9428",
+        "parent_code": "94",
+        "code": "28",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Mamberamo Raya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9429",
+        "parent_code": "94",
+        "code": "29",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Nduga",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9430",
+        "parent_code": "94",
+        "code": "30",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Lanny Jaya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9431",
+        "parent_code": "94",
+        "code": "31",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Mamberamo Tengah",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9432",
+        "parent_code": "94",
+        "code": "32",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Yalimo",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9433",
+        "parent_code": "94",
+        "code": "33",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Puncak",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9434",
+        "parent_code": "94",
+        "code": "34",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Dogiyai",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9435",
+        "parent_code": "94",
+        "code": "35",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Intan Jaya",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9436",
+        "parent_code": "94",
+        "code": "36",
+        "postal_code": null,
+        "level": "regency",
+        "name": "Kabupaten Deiyai",
+        "latitude": "0",
+        "longitude": "0"
+    },
+    {
+        "id": "9471",
+        "parent_code": "94",
+        "code": "71",
+        "postal_code": null,
+        "level": "city",
+        "name": "Kota Jayapura",
+        "latitude": "0",
+        "longitude": "0"
+    }
+]

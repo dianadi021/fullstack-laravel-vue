@@ -1,0 +1,92 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+use App\Models\Master\Role;
+
+class RoleSeeder extends Seeder
+{
+    public function run(): void
+    {
+        $datas = [
+            [
+                'name' => 'root',
+                'level' => 0,
+                'description' => 'Merupakan role DevOps/Admin Server',
+            ],
+            [
+                'name' => 'developer',
+                'level' => 1,
+                'description' => 'Merupakan role Developer/Programmer app',
+            ],
+            [
+                'name' => 'superadministrator',
+                'level' => 2,
+                'description' => null,
+            ],
+            [
+                'name' => 'administrator',
+                'level' => 3,
+                'description' => null,
+            ],
+            [
+                'name' => 'admin',
+                'level' => 4,
+                'description' => null,
+            ],
+            [
+                'name' => 'moderator',
+                'level' => 5,
+                'description' => null,
+            ],
+            [
+                'name' => 'client',
+                'level' => 6,
+                'description' => null,
+            ],
+            [
+                'name' => 'supporter',
+                'level' => 7,
+                'description' => null,
+            ],
+            [
+                'name' => 'member',
+                'level' => 8,
+                'description' => null,
+            ],
+            [
+                'name' => 'petugas',
+                'level' => 9,
+                'description' => null,
+            ],
+            [
+                'name' => 'dokter',
+                'level' => 10,
+                'description' => null,
+            ],
+            [
+                'name' => 'perawat',
+                'level' => 11,
+                'description' => null,
+            ],
+            [
+                'name' => 'apoteker',
+                'level' => 12,
+                'description' => null,
+            ],
+            [
+                'name' => 'farmasi',
+                'level' => 13,
+                'description' => null,
+            ],
+            [
+                'name' => 'kasir',
+                'level' => 14,
+                'description' => null,
+            ],
+        ];
+
+        Role::insert($datas);
+    }
+}

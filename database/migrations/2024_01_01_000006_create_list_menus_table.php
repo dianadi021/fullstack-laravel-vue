@@ -1,0 +1,39 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+return new class extends Migration
+{
+    /**
+     * Run the migrations.
+     */
+    public function up(): void
+    {
+        Schema::create('list_menus', function (Blueprint $table) {
+            $table->id();
+            $table->string('label');
+            $table->string('name')->nullable();
+            $table->string('icon')->default('assets/images/icons/12087772.png');
+            $table->string('link')->nullable();
+            $table->string('type')->comment('Reff: main_menu, feature, role, tier, user')->nullable();
+            $table->boolean('is_parent')->default(false);
+            $table->unsignedBigInteger('parent_id')->nullable();
+            $table->foreign('parent_id')->references('id')->on('list_menus')->onDelete('cascade');
+            $table->unsignedBigInteger('tier_level_id')->default(1);
+            $table->foreign('tier_level_id')->references('id')->on('tier_level')->onDelete('cascade');
+            $table->boolean('is_actived')->default(true);
+            $table->timestamps();
+            $table->softDeletes();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     */
+    public function down(): void
+    {
+        Schema::dropIfExists('list_menus');
+    }
+};
